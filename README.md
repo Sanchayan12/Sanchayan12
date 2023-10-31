@@ -7,7 +7,7 @@
 
 I'm highly interested in Full Stack Development & Data,Business Analysis. I am very enthusiastic to learn more in Python, JavaScript, SQL & IOT.
 
-## 🔗 Explore more about Keshi 🚀
+## 🔗 Explore more about Sanchayan 🚀
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1s8W-kWlzJrG3F0SqPcrECvMqKeNjnim5/view?usp=sharing)

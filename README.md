@@ -149,7 +149,7 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 
 ## 💻 Sanchayan's Holopin Board
 
-[![@Sanchayan's Holopin board](https://www.holopin.io/@sanchayan12#badges)](https://www.holopin.io/@sanchayan12#)
+[![@Sanchayan's Holopin board](https://holopin.me/sanchayan12)](https://holopin.io/@sanchayan12)
 
 <!-- <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div style="display: flex; align-items: flex-start; align: center">
